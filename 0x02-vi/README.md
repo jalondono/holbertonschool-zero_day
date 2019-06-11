@@ -1,0 +1,1 @@
+this proyect is about the editor text on linux distribution
